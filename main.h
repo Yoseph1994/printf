@@ -7,6 +7,6 @@ int _strlen(char *s);
 int _strlenc(const char *s);
 int printf_37(void);
 int _putchar(char c);
-int _printf(const char *format,...);
+int _printf(const char *format, ...);
 
 #endif
