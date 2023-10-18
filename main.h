@@ -39,4 +39,5 @@ int printf_HEX_aux(unsigned int num);
 int printf_exclusive_string(va_list val);
 int printf_pointer(va_list val);
 int rev_string(char *s);
+int printf_srev(va_list args);
 #endif
