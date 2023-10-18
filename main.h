@@ -16,5 +16,6 @@ int printf_37(void);
 int _putchar(char c);
 int _printf(const char *format, ...);
 int printf_bin(va_list val);
+int printf_unsigned(va_list args);
 
 #endif
