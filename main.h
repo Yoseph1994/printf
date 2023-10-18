@@ -2,9 +2,8 @@
 #define MAIN_H
 
 #include <stdio.h>
-#include <stdlib.h>
 #include <stdarg.h>
-#include <limits.h>
+#include <string.h>
 #include <unistd.h>
 
 int printf_char(va_list val);
